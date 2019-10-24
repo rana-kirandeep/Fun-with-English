@@ -1,0 +1,3535 @@
+[
+{
+    "id": 0,
+    "question": "the $0 $1 as make people cognizant about their onus $3 perishing environment and promulgate some rigid $2",
+    "options": [
+    {
+        "id": 1,
+        "label": "environment"
+    },
+    {
+        "id": 2,
+        "label": "such"
+    },
+    {
+        "id": 17,
+        "label": "laws"
+    },
+    {
+        "id": 10,
+        "label": "and"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 2
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 10
+    }]
+},
+{
+    "id": 1,
+    "question": "$1 some fresh impetus into dying environment $3 $2 the pleasant and peaceful life. $0 with some sensible",
+    "options": [
+    {
+        "id": 14,
+        "label": "However"
+    },
+    {
+        "id": 0,
+        "label": "blow"
+    },
+    {
+        "id": 8,
+        "label": "pursuit"
+    },
+    {
+        "id": 7,
+        "label": "to"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 8
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 7
+    }]
+},
+{
+    "id": 2,
+    "question": "In $1 of globalization $0 tourism is booming industry. With the $2 $3 medium of travel and communication",
+    "options": [
+    {
+        "id": 4,
+        "label": "today"
+    },
+    {
+        "id": 1,
+        "label": "era"
+    },
+    {
+        "id": 11,
+        "label": "escalating"
+    },
+    {
+        "id": 12,
+        "label": "technology,"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 12
+    }]
+},
+{
+    "id": 3,
+    "question": "tourism industry is $2 industry. it has significant amount $0 advantages $3 disadvantages over developing $1",
+    "options": [
+    {
+        "id": 11,
+        "label": "of"
+    },
+    {
+        "id": 17,
+        "label": "nations"
+    },
+    {
+        "id": 4,
+        "label": "thriving"
+    },
+    {
+        "id": 13,
+        "label": "or"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 13
+    }]
+},
+{
+    "id": 4,
+    "question": "Undisputed, tourism has plethora of benefits $0 $3 underdeveloped countries. First $1 foremost it $2 economy of developing",
+    "options": [
+    {
+        "id": 6,
+        "label": "to"
+    },
+    {
+        "id": 11,
+        "label": "and"
+    },
+    {
+        "id": 14,
+        "label": "boost"
+    },
+    {
+        "id": 7,
+        "label": "the"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 6
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 7
+    }]
+},
+{
+    "id": 5,
+    "question": "for $2 $1 has 90% of its economy based upon tourism industry. Escalating number $3 $0",
+    "options": [
+    {
+        "id": 15,
+        "label": "visitors"
+    },
+    {
+        "id": 2,
+        "label": "Nepal"
+    },
+    {
+        "id": 1,
+        "label": "example"
+    },
+    {
+        "id": 14,
+        "label": "of"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 2
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 14
+    }]
+},
+{
+    "id": 6,
+    "question": "$3 dire need of international services such as $2 transports . with ultimately $0 number $1 jobs",
+    "options": [
+    {
+        "id": 14,
+        "label": "produce"
+    },
+    {
+        "id": 16,
+        "label": "of"
+    },
+    {
+        "id": 8,
+        "label": "hotels,"
+    },
+    {
+        "id": 0,
+        "label": "implies"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 16
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 8
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 0
+    }]
+},
+{
+    "id": 7,
+    "question": "Dubai and Singapore are the $1 of such $2 pools. Despite $0 plenty of advantages, tourism $3 some",
+    "options": [
+    {
+        "id": 11,
+        "label": "of"
+    },
+    {
+        "id": 5,
+        "label": "epitome"
+    },
+    {
+        "id": 8,
+        "label": "job"
+    },
+    {
+        "id": 16,
+        "label": "has"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 5
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 8
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 16
+    }]
+},
+{
+    "id": 8,
+    "question": "Sometime people neglect their $1 culture $2 order to provide better hospitality to guests or they $0 $3",
+    "options": [
+    {
+        "id": 16,
+        "label": "get"
+    },
+    {
+        "id": 4,
+        "label": "traditional"
+    },
+    {
+        "id": 6,
+        "label": "in"
+    },
+    {
+        "id": 17,
+        "label": "fascinated"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 16
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 6
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 17
+    }]
+},
+{
+    "id": 9,
+    "question": "$0 $3 sometime lead to animosity in $2 societies towards tourist. Additionally, foreigner are $1 to the place",
+    "options": [
+    {
+        "id": 0,
+        "label": "this"
+    },
+    {
+        "id": 14,
+        "label": "new"
+    },
+    {
+        "id": 7,
+        "label": "traditional"
+    },
+    {
+        "id": 1,
+        "label": "may"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 1
+    }]
+},
+{
+    "id": 10,
+    "question": "To recapitulate, Tourism $1 emerging industry with abundant potential $3 to any nation especially to $0 developed $2",
+    "options": [
+    {
+        "id": 15,
+        "label": "under"
+    },
+    {
+        "id": 3,
+        "label": "is"
+    },
+    {
+        "id": 17,
+        "label": "one."
+    },
+    {
+        "id": 9,
+        "label": "opportunists"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 9
+    }]
+},
+{
+    "id": 11,
+    "question": "It is $0 proven remedy $2 global pressing $3 i.e. unemployment. It has also prominent $1 in conserving",
+    "options": [
+    {
+        "id": 2,
+        "label": "a"
+    },
+    {
+        "id": 15,
+        "label": "contribution"
+    },
+    {
+        "id": 5,
+        "label": "of"
+    },
+    {
+        "id": 8,
+        "label": "issue"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 2
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 5
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 8
+    }]
+},
+{
+    "id": 12,
+    "question": "With diligently analysis $2 benefits of tourism one can say $1 $0 $3 boon for any country and",
+    "options": [
+    {
+        "id": 11,
+        "label": "is"
+    },
+    {
+        "id": 10,
+        "label": "it"
+    },
+    {
+        "id": 3,
+        "label": "the"
+    },
+    {
+        "id": 12,
+        "label": "a"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 10
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 12
+    }]
+},
+{
+    "id": 13,
+    "question": "From the $1 immemorial, mankind $3 $0 $2 at war with each other owing to the difference in",
+    "options": [
+    {
+        "id": 6,
+        "label": "always"
+    },
+    {
+        "id": 2,
+        "label": "time"
+    },
+    {
+        "id": 7,
+        "label": "been"
+    },
+    {
+        "id": 5,
+        "label": "has"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 6
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 2
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 5
+    }]
+},
+{
+    "id": 14,
+    "question": " Two thousand $2 back Jesus Christ was tortured and crucified, $0 because $1 the $3 of ideas",
+    "options": [
+    {
+        "id": 11,
+        "label": "just"
+    },
+    {
+        "id": 13,
+        "label": "of"
+    },
+    {
+        "id": 3,
+        "label": "years"
+    },
+    {
+        "id": 15,
+        "label": "clash"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 15
+    }]
+},
+{
+    "id": 15,
+    "question": " $0 people henceforth have sacrificed their life $2 $1 the differences, in the way of $3",
+    "options": [
+    {
+        "id": 1,
+        "label": "Many"
+    },
+    {
+        "id": 9,
+        "label": "to"
+    },
+    {
+        "id": 8,
+        "label": "owing"
+    },
+    {
+        "id": 16,
+        "label": "thinking."
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 8
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 16
+    }]
+},
+{
+    "id": 16,
+    "question": " $0 truly agree that â€œIn a war of ideas, it $3 people $1 get $2 because it",
+    "options": [
+    {
+        "id": 1,
+        "label": "I"
+    },
+    {
+        "id": 13,
+        "label": "who"
+    },
+    {
+        "id": 15,
+        "label": "killed"
+    },
+    {
+        "id": 11,
+        "label": "is"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 11
+    }]
+},
+{
+    "id": 17,
+    "question": "$2 Further he is $1 to live his life in $3 and has to cope up $0 the",
+    "options": [
+    {
+        "id": 16,
+        "label": "with"
+    },
+    {
+        "id": 4,
+        "label": "forced"
+    },
+    {
+        "id": 0,
+        "label": ""
+    },
+    {
+        "id": 10,
+        "label": "fear"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 16
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 10
+    }]
+},
+{
+    "id": 18,
+    "question": "In riots $0 man's family $2 causality, the $3 of Pakistan and India is wound $1 ending war",
+    "options": [
+    {
+        "id": 2,
+        "label": "common"
+    },
+    {
+        "id": 15,
+        "label": "never"
+    },
+    {
+        "id": 5,
+        "label": "suffer"
+    },
+    {
+        "id": 8,
+        "label": "portion"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 2
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 5
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 8
+    }]
+},
+{
+    "id": 19,
+    "question": "henceforth, $3 adverse effect. $2 epitome is The World trade centre attack on 9/11 in $0 $1 is",
+    "options": [
+    {
+        "id": 15,
+        "label": "USA."
+    },
+    {
+        "id": 16,
+        "label": "it"
+    },
+    {
+        "id": 4,
+        "label": "Another"
+    },
+    {
+        "id": 1,
+        "label": "prolong"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 16
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 1
+    }]
+},
+{
+    "id": 20,
+    "question": "From the immemorial, mankind $2 always $3 at the war with $1 other owing $0 difference in opinions,",
+    "options": [
+    {
+        "id": 14,
+        "label": "to"
+    },
+    {
+        "id": 11,
+        "label": "each"
+    },
+    {
+        "id": 4,
+        "label": "has"
+    },
+    {
+        "id": 6,
+        "label": "been"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 6
+    }]
+},
+{
+    "id": 21,
+    "question": " two thousand $0 $3 $1 Christ was tortured $2 crucified, just because clash of ideas of two",
+    "options": [
+    {
+        "id": 3,
+        "label": "years"
+    },
+    {
+        "id": 5,
+        "label": "Jesus"
+    },
+    {
+        "id": 9,
+        "label": "and"
+    },
+    {
+        "id": 4,
+        "label": "back"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 5
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 4
+    }]
+},
+{
+    "id": 22,
+    "question": " $2 $1 henceforth have sacrificed their life owing $0 $3 difference, in the way of thinking.",
+    "options": [
+    {
+        "id": 9,
+        "label": "to"
+    },
+    {
+        "id": 2,
+        "label": "people"
+    },
+    {
+        "id": 1,
+        "label": "Many"
+    },
+    {
+        "id": 10,
+        "label": "the"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 2
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 10
+    }]
+},
+{
+    "id": 23,
+    "question": "$3 firmly believe that it is only ordinary $1 and their $2 $0 suffer loss of life,money and",
+    "options": [
+    {
+        "id": 12,
+        "label": "who"
+    },
+    {
+        "id": 8,
+        "label": "person"
+    },
+    {
+        "id": 11,
+        "label": "families,"
+    },
+    {
+        "id": 0,
+        "label": "I"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 8
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 0
+    }]
+},
+{
+    "id": 24,
+    "question": "Further, he is forced to live under $0 of fear and $2 up with after effects $3 $1",
+    "options": [
+    {
+        "id": 7,
+        "label": "cloud"
+    },
+    {
+        "id": 17,
+        "label": "mass"
+    },
+    {
+        "id": 11,
+        "label": "cope"
+    },
+    {
+        "id": 16,
+        "label": "of"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 16
+    }]
+},
+{
+    "id": 25,
+    "question": "$3 $1 fight to show there notions are superior. Which results into loss of many innocent $0 $2",
+    "options": [
+    {
+        "id": 16,
+        "label": "lives."
+    },
+    {
+        "id": 1,
+        "label": "groups"
+    },
+    {
+        "id": 17,
+        "label": "During"
+    },
+    {
+        "id": 0,
+        "label": "Two"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 16
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 0
+    }]
+},
+{
+    "id": 26,
+    "question": "few countries decided to drop nuclear $2 on $3 and Nagasaki and repercussion $1 $0",
+    "options": [
+    {
+        "id": 14,
+        "label": "devastating,"
+    },
+    {
+        "id": 13,
+        "label": "were"
+    },
+    {
+        "id": 6,
+        "label": "bomb"
+    },
+    {
+        "id": 8,
+        "label": "Hiroshima"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 6
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 8
+    }]
+},
+{
+    "id": 27,
+    "question": "$1 Utter cities were destroyed $0 billions of civilian get $3 $2 today, post effects can be seen.",
+    "options": [
+    {
+        "id": 5,
+        "label": "and"
+    },
+    {
+        "id": 0,
+        "label": ""
+    },
+    {
+        "id": 11,
+        "label": "Till"
+    },
+    {
+        "id": 10,
+        "label": "killed."
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 5
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 10
+    }]
+},
+{
+    "id": 28,
+    "question": "People can go up to any extent $3 order $2 prove $0 $1 and faiths. Partition of India",
+    "options": [
+    {
+        "id": 11,
+        "label": "their"
+    },
+    {
+        "id": 12,
+        "label": "beliefs"
+    },
+    {
+        "id": 9,
+        "label": "to"
+    },
+    {
+        "id": 7,
+        "label": "in"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 7
+    }]
+},
+{
+    "id": 29,
+    "question": "Which caused severe riots and took $1 of $3 people, $2 no reason. That very decision poison $0",
+    "options": [
+    {
+        "id": 17,
+        "label": "between"
+    },
+    {
+        "id": 6,
+        "label": "life"
+    },
+    {
+        "id": 10,
+        "label": "for"
+    },
+    {
+        "id": 8,
+        "label": "many"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 6
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 10
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 8
+    }]
+},
+{
+    "id": 30,
+    "question": "$2 the increasing population, with driving issues from $3 issue of $0 congestion $1",
+    "options": [
+    {
+        "id": 15,
+        "label": "traffic"
+    },
+    {
+        "id": 17,
+        "label": "to"
+    },
+    {
+        "id": 0,
+        "label": "With"
+    },
+    {
+        "id": 12,
+        "label": "minor"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 12
+    }]
+},
+{
+    "id": 31,
+    "question": " Driving is indispensable, everyone needs to $0 to travel daily for $1 $3 Therefore, $2 is a",
+    "options": [
+    {
+        "id": 7,
+        "label": "drive"
+    },
+    {
+        "id": 12,
+        "label": "obvious"
+    },
+    {
+        "id": 15,
+        "label": "there"
+    },
+    {
+        "id": 13,
+        "label": "reasons."
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 13
+    }]
+},
+{
+    "id": 32,
+    "question": " to $1 out $3 realistic solution for regular driving $2 $0 big companies such as Goggle, ",
+    "options": [
+    {
+        "id": 11,
+        "label": "Many"
+    },
+    {
+        "id": 2,
+        "label": "find"
+    },
+    {
+        "id": 10,
+        "label": "issues."
+    },
+    {
+        "id": 4,
+        "label": "some"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 2
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 10
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 4
+    }]
+},
+{
+    "id": 33,
+    "question": " $2 $1 area to develop autonomous $3 Every one using various technologies to make their vehicle $0",
+    "options": [
+    {
+        "id": 17,
+        "label": "better."
+    },
+    {
+        "id": 2,
+        "label": "this"
+    },
+    {
+        "id": 1,
+        "label": "in"
+    },
+    {
+        "id": 7,
+        "label": "vehicle."
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 2
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 7
+    }]
+},
+{
+    "id": 34,
+    "question": "Google map to make vehicle automate. Similarly $2 are $3 investing millions of money and $1 to $0",
+    "options": [
+    {
+        "id": 17,
+        "label": "come"
+    },
+    {
+        "id": 15,
+        "label": "energy"
+    },
+    {
+        "id": 7,
+        "label": "others"
+    },
+    {
+        "id": 9,
+        "label": "also"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 9
+    }]
+},
+{
+    "id": 35,
+    "question": " Apart $1 these different technologies and strategies everyone $2 common goal $3 $0 provide fully automated vehicle",
+    "options": [
+    {
+        "id": 13,
+        "label": "to"
+    },
+    {
+        "id": 2,
+        "label": "from"
+    },
+    {
+        "id": 9,
+        "label": "have"
+    },
+    {
+        "id": 12,
+        "label": "i.e."
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 2
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 12
+    }]
+},
+{
+    "id": 36,
+    "question": " to end user such benefits $1 High level of safety, $3 hassle $0 travelling, cost $2 driving",
+    "options": [
+    {
+        "id": 13,
+        "label": "free"
+    },
+    {
+        "id": 6,
+        "label": "are,"
+    },
+    {
+        "id": 16,
+        "label": "effective"
+    },
+    {
+        "id": 11,
+        "label": "comfort,"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 6
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 16
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 11
+    }]
+},
+{
+    "id": 37,
+    "question": " $2 there are certain $3 that $0 associate $1 this solution that need to be take care.",
+    "options": [
+    {
+        "id": 7,
+        "label": "are"
+    },
+    {
+        "id": 9,
+        "label": "with"
+    },
+    {
+        "id": 1,
+        "label": "However,"
+    },
+    {
+        "id": 5,
+        "label": "challenges"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 5
+    }]
+},
+{
+    "id": 38,
+    "question": "Topic discussed here is Autonomous vehicle and $3 are their main components, there $2 and $1 $0 in",
+    "options": [
+    {
+        "id": 16,
+        "label": "faced"
+    },
+    {
+        "id": 15,
+        "label": "challenges"
+    },
+    {
+        "id": 13,
+        "label": "benefits"
+    },
+    {
+        "id": 7,
+        "label": "what"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 16
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 7
+    }]
+},
+{
+    "id": 39,
+    "question": "This $1 discuss about driverless car, It $2 a car without driver. With $3 $0 of technology today",
+    "options": [
+    {
+        "id": 14,
+        "label": "advent"
+    },
+    {
+        "id": 1,
+        "label": "literature"
+    },
+    {
+        "id": 7,
+        "label": "is"
+    },
+    {
+        "id": 13,
+        "label": "the"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 13
+    }]
+},
+{
+    "id": 40,
+    "question": " which will $1 autonomously and provide ultra safety and $3 $0 $2 discuss Google's Autonomous Vehicle and",
+    "options": [
+    {
+        "id": 11,
+        "label": "features."
+    },
+    {
+        "id": 3,
+        "label": "drive"
+    },
+    {
+        "id": 12,
+        "label": "literature"
+    },
+    {
+        "id": 10,
+        "label": "comfort"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 10
+    }]
+},
+{
+    "id": 41,
+    "question": "$1 that are used to $0 real $2 experiments. It also discuss $3 key components which contribute to",
+    "options": [
+    {
+        "id": 5,
+        "label": "perform"
+    },
+    {
+        "id": 0,
+        "label": ""
+    },
+    {
+        "id": 7,
+        "label": "time"
+    },
+    {
+        "id": 12,
+        "label": "about"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 5
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 12
+    }]
+},
+{
+    "id": 42,
+    "question": "Google $3 Google map is prevailing $1 $0 are used by millions of people daily. $2 hybrid car",
+    "options": [
+    {
+        "id": 7,
+        "label": "that"
+    },
+    {
+        "id": 6,
+        "label": "application"
+    },
+    {
+        "id": 15,
+        "label": "This"
+    },
+    {
+        "id": 1,
+        "label": "Maps:"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 6
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 1
+    }]
+},
+{
+    "id": 43,
+    "question": "$0 necessary information to vehicle to decide its $2 and helps it in $3 Hardware $1 There are",
+    "options": [
+    {
+        "id": 0,
+        "label": ""
+    },
+    {
+        "id": 15,
+        "label": "Sensors:"
+    },
+    {
+        "id": 8,
+        "label": "route"
+    },
+    {
+        "id": 13,
+        "label": "navigation."
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 8
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 13
+    }]
+},
+{
+    "id": 44,
+    "question": "According $2 Einstein, education is structured in formal pattern and every student has $0 learn same $3 $1",
+    "options": [
+    {
+        "id": 13,
+        "label": "to"
+    },
+    {
+        "id": 17,
+        "label": "path."
+    },
+    {
+        "id": 1,
+        "label": "to"
+    },
+    {
+        "id": 16,
+        "label": "predefined"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 16
+    }]
+},
+{
+    "id": 45,
+    "question": "in examination they have to $1 $3 $2 which are $0 in curriculum.",
+    "options": [
+    {
+        "id": 10,
+        "label": "mentioned"
+    },
+    {
+        "id": 5,
+        "label": "answer"
+    },
+    {
+        "id": 7,
+        "label": "questions,"
+    },
+    {
+        "id": 6,
+        "label": "same"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 10
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 5
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 6
+    }]
+},
+{
+    "id": 46,
+    "question": "They are not $2 to think out of the box, which ultimately impede $0 $3 power and $1",
+    "options": [
+    {
+        "id": 13,
+        "label": "there"
+    },
+    {
+        "id": 17,
+        "label": "refrain"
+    },
+    {
+        "id": 3,
+        "label": "encourage"
+    },
+    {
+        "id": 14,
+        "label": "innovation"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 14
+    }]
+},
+{
+    "id": 47,
+    "question": "On the flip side, I personally assert that $2 education system is designed in $1 $3 then $0",
+    "options": [
+    {
+        "id": 17,
+        "label": "traditional."
+    },
+    {
+        "id": 14,
+        "label": "divers"
+    },
+    {
+        "id": 8,
+        "label": "contemporary"
+    },
+    {
+        "id": 15,
+        "label": "ways"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 8
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 15
+    }]
+},
+{
+    "id": 48,
+    "question": "in addition $2 theoretical $0 current $3 consist of practical $1 as well.",
+    "options": [
+    {
+        "id": 4,
+        "label": "knowledge,"
+    },
+    {
+        "id": 10,
+        "label": "approaches"
+    },
+    {
+        "id": 2,
+        "label": "to"
+    },
+    {
+        "id": 6,
+        "label": "education"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 10
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 2
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 6
+    }]
+},
+{
+    "id": 49,
+    "question": "With $2 help of technology and $1 gadget like computer, $3 and mobile this $0 more beneficial for",
+    "options": [
+    {
+        "id": 14,
+        "label": "get"
+    },
+    {
+        "id": 6,
+        "label": "new"
+    },
+    {
+        "id": 1,
+        "label": "the"
+    },
+    {
+        "id": 10,
+        "label": "projector"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 6
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 10
+    }]
+},
+{
+    "id": 50,
+    "question": " Moreover, new $1 $3 the education system with new impetus. It $0 be $2 injustice to say",
+    "options": [
+    {
+        "id": 12,
+        "label": "would"
+    },
+    {
+        "id": 3,
+        "label": "gizmos"
+    },
+    {
+        "id": 14,
+        "label": "utter"
+    },
+    {
+        "id": 4,
+        "label": "leverage"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 4
+    }]
+},
+{
+    "id": 51,
+    "question": "Education $1 crucial role in holistic development of every one. During $0 era, $3 system $2 not mature",
+    "options": [
+    {
+        "id": 11,
+        "label": "Einstein's"
+    },
+    {
+        "id": 1,
+        "label": "plays"
+    },
+    {
+        "id": 15,
+        "label": "was"
+    },
+    {
+        "id": 13,
+        "label": "education"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 13
+    }]
+},
+{
+    "id": 52,
+    "question": "it is primarily based upon spiritual consent and $1 $3 of pragmatic $0 with scarcity of $2",
+    "options": [
+    {
+        "id": 12,
+        "label": "knowledge"
+    },
+    {
+        "id": 8,
+        "label": "had"
+    },
+    {
+        "id": 16,
+        "label": "diversity."
+    },
+    {
+        "id": 9,
+        "label": "paucity"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 8
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 16
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 9
+    }]
+},
+{
+    "id": 53,
+    "question": " Thus, $3 statement regarding education as a greatest $1 in his learning may $2 in $0 to",
+    "options": [
+    {
+        "id": 16,
+        "label": "according"
+    },
+    {
+        "id": 9,
+        "label": "obstacle"
+    },
+    {
+        "id": 14,
+        "label": "fits"
+    },
+    {
+        "id": 2,
+        "label": "his"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 16
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 2
+    }]
+},
+{
+    "id": 54,
+    "question": "$0 $1 forced to read what is mentioned $3 books by some $2 of the society. Even, at",
+    "options": [
+    {
+        "id": 0,
+        "label": ""
+    },
+    {
+        "id": 1,
+        "label": "Students"
+    },
+    {
+        "id": 12,
+        "label": "elites"
+    },
+    {
+        "id": 8,
+        "label": "in"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 8
+    }]
+},
+{
+    "id": 55,
+    "question": " Moreover given questions have fixed $0 Pupil $2 not encourage to $1 $3 of box. Which ultimately",
+    "options": [
+    {
+        "id": 6,
+        "label": "answers."
+    },
+    {
+        "id": 12,
+        "label": "think"
+    },
+    {
+        "id": 8,
+        "label": "are"
+    },
+    {
+        "id": 13,
+        "label": "out"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 6
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 8
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 13
+    }]
+},
+{
+    "id": 56,
+    "question": "On the $0 $2 contemporary education system is consist $1 divers aspects. Not only theory but, practical $3",
+    "options": [
+    {
+        "id": 2,
+        "label": "flip"
+    },
+    {
+        "id": 9,
+        "label": "of"
+    },
+    {
+        "id": 3,
+        "label": "side,"
+    },
+    {
+        "id": 17,
+        "label": "aspects"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 2
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 17
+    }]
+},
+{
+    "id": 57,
+    "question": " Today educational institutes are equipped with $2 $3 technology and latest $0 such as $1 projectors and",
+    "options": [
+    {
+        "id": 12,
+        "label": "gizmos"
+    },
+    {
+        "id": 15,
+        "label": "computers,"
+    },
+    {
+        "id": 7,
+        "label": "cutting"
+    },
+    {
+        "id": 8,
+        "label": "edge"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 8
+    }]
+},
+{
+    "id": 58,
+    "question": " Present $3 cover vast $1 of $0 and with $2 of practicals knowledge with is helpful to",
+    "options": [
+    {
+        "id": 7,
+        "label": "subjects"
+    },
+    {
+        "id": 5,
+        "label": "domains"
+    },
+    {
+        "id": 10,
+        "label": "plethora"
+    },
+    {
+        "id": 2,
+        "label": "education"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 5
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 10
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 2
+    }]
+},
+{
+    "id": 59,
+    "question": "To recapitulate, education $0 $1 to survive in modern cut throat competitive world. Education $3 leverage $2 technology",
+    "options": [
+    {
+        "id": 3,
+        "label": "is"
+    },
+    {
+        "id": 4,
+        "label": "prerequisite"
+    },
+    {
+        "id": 16,
+        "label": "with"
+    },
+    {
+        "id": 14,
+        "label": "is"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 16
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 14
+    }]
+},
+{
+    "id": 60,
+    "question": "$0 It is utter injustice to say education is greatest impediments $1 learning of any $3 Question: $2",
+    "options": [
+    {
+        "id": 0,
+        "label": ""
+    },
+    {
+        "id": 11,
+        "label": "in"
+    },
+    {
+        "id": 17,
+        "label": "Education"
+    },
+    {
+        "id": 15,
+        "label": "person."
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 15
+    }]
+},
+{
+    "id": 61,
+    "question": "$2 $0 you mean $1 this ? And $3 you agree with what Einstein said. Artificial intelligence is",
+    "options": [
+    {
+        "id": 1,
+        "label": "do"
+    },
+    {
+        "id": 4,
+        "label": "by"
+    },
+    {
+        "id": 0,
+        "label": "What"
+    },
+    {
+        "id": 8,
+        "label": "do"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 8
+    }]
+},
+{
+    "id": 62,
+    "question": "$1 intelligent personal assistant $0 one of the product $3 many giant such as Google. $2 renowned participants",
+    "options": [
+    {
+        "id": 4,
+        "label": "is"
+    },
+    {
+        "id": 0,
+        "label": "Artificial"
+    },
+    {
+        "id": 15,
+        "label": "Few"
+    },
+    {
+        "id": 9,
+        "label": "which"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 9
+    }]
+},
+{
+    "id": 63,
+    "question": "All mentioned participants $1 $2 $0 receive command in natural language and respond to user. They $3 perform",
+    "options": [
+    {
+        "id": 5,
+        "label": "to"
+    },
+    {
+        "id": 3,
+        "label": "has"
+    },
+    {
+        "id": 4,
+        "label": "capability"
+    },
+    {
+        "id": 16,
+        "label": "can"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 5
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 16
+    }]
+},
+{
+    "id": 64,
+    "question": "In comparison $2 assistance and Apple's Siri are the best one and has $0 good $1 $3 despite",
+    "options": [
+    {
+        "id": 13,
+        "label": "potentially"
+    },
+    {
+        "id": 15,
+        "label": "feedback."
+    },
+    {
+        "id": 2,
+        "label": "Google"
+    },
+    {
+        "id": 16,
+        "label": "However,"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 2
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 16
+    }]
+},
+{
+    "id": 65,
+    "question": "Education plays crucial $2 in holistic development of every $1 All of them have extensive language $3 $0",
+    "options": [
+    {
+        "id": 17,
+        "label": "capabilities."
+    },
+    {
+        "id": 9,
+        "label": "one."
+    },
+    {
+        "id": 3,
+        "label": "role"
+    },
+    {
+        "id": 16,
+        "label": "processing"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 16
+    }]
+},
+{
+    "id": 66,
+    "question": "The Environment, We are living in it, $3 dangerous $0 to various $2 So who $1 you think",
+    "options": [
+    {
+        "id": 9,
+        "label": "due"
+    },
+    {
+        "id": 15,
+        "label": "do"
+    },
+    {
+        "id": 12,
+        "label": "problems."
+    },
+    {
+        "id": 7,
+        "label": "is"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 7
+    }]
+},
+{
+    "id": 67,
+    "question": "The $3 can $1 defined as surrounding. With escalating pollution and $2 the environment is getting irreparably $0",
+    "options": [
+    {
+        "id": 17,
+        "label": "damaged."
+    },
+    {
+        "id": 3,
+        "label": "be"
+    },
+    {
+        "id": 11,
+        "label": "population"
+    },
+    {
+        "id": 1,
+        "label": "environment"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 1
+    }]
+},
+{
+    "id": 68,
+    "question": "It $1 a $2 we have to leave for $0 future generations. Therefore it has become $3 to",
+    "options": [
+    {
+        "id": 9,
+        "label": "our"
+    },
+    {
+        "id": 1,
+        "label": "is"
+    },
+    {
+        "id": 3,
+        "label": "legacy"
+    },
+    {
+        "id": 16,
+        "label": "crucial"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 16
+    }]
+},
+{
+    "id": 69,
+    "question": "In $1 name of progress we are disrupting the environment. According to me $3 $0 government, organization $2",
+    "options": [
+    {
+        "id": 14,
+        "label": "three"
+    },
+    {
+        "id": 1,
+        "label": "the"
+    },
+    {
+        "id": 17,
+        "label": "and"
+    },
+    {
+        "id": 13,
+        "label": "all"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 13
+    }]
+},
+{
+    "id": 70,
+    "question": "In $0 opinion, the governments of different countries $1 the $2 of lethal weapons like nuclear weapons, $3",
+    "options": [
+    {
+        "id": 1,
+        "label": "my"
+    },
+    {
+        "id": 8,
+        "label": "encourage"
+    },
+    {
+        "id": 10,
+        "label": "manufacturing"
+    },
+    {
+        "id": 17,
+        "label": "across"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 8
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 10
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 17
+    }]
+},
+{
+    "id": 71,
+    "question": "Moreover, regimes boost $3 installation of factories, biggest source of $0 $2 considering $1 environment.",
+    "options": [
+    {
+        "id": 10,
+        "label": "pollution,"
+    },
+    {
+        "id": 13,
+        "label": "the"
+    },
+    {
+        "id": 11,
+        "label": "without"
+    },
+    {
+        "id": 3,
+        "label": "the"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 10
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 3
+    }]
+},
+{
+    "id": 72,
+    "question": "Apart $1 this dearth of stringent $2 regarding environment $3 make $0 responsible.",
+    "options": [
+    {
+        "id": 11,
+        "label": "government"
+    },
+    {
+        "id": 1,
+        "label": "from"
+    },
+    {
+        "id": 6,
+        "label": "rules"
+    },
+    {
+        "id": 9,
+        "label": "also"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 6
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 9
+    }]
+},
+{
+    "id": 73,
+    "question": "The $1 like ISRO $2 NASA are esteemed ones. Launch rockets $0 satellites, $3 emits considerable amount of",
+    "options": [
+    {
+        "id": 11,
+        "label": "and"
+    },
+    {
+        "id": 1,
+        "label": "organizations"
+    },
+    {
+        "id": 4,
+        "label": "and"
+    },
+    {
+        "id": 13,
+        "label": "which"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 13
+    }]
+},
+{
+    "id": 74,
+    "question": "gases that are directly proportionate to $3 $0 pollution and green house $1 $2 well as many other",
+    "options": [
+    {
+        "id": 7,
+        "label": "air"
+    },
+    {
+        "id": 12,
+        "label": "effect."
+    },
+    {
+        "id": 13,
+        "label": "As"
+    },
+    {
+        "id": 6,
+        "label": "the"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 6
+    }]
+},
+{
+    "id": 75,
+    "question": "Even, The individuals $1 equally worsening the environment by $3 irresponsible demeanour towards the $0 such as $2",
+    "options": [
+    {
+        "id": 14,
+        "label": "environment"
+    },
+    {
+        "id": 3,
+        "label": "are"
+    },
+    {
+        "id": 17,
+        "label": "littering,"
+    },
+    {
+        "id": 9,
+        "label": "their"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 9
+    }]
+},
+{
+    "id": 76,
+    "question": " Not only this, obsession of people $0 live $1 $2 $3 lead to paucity of land and",
+    "options": [
+    {
+        "id": 7,
+        "label": "to"
+    },
+    {
+        "id": 9,
+        "label": "in"
+    },
+    {
+        "id": 10,
+        "label": "big"
+    },
+    {
+        "id": 11,
+        "label": "houses"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 10
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 11
+    }]
+},
+{
+    "id": 77,
+    "question": "$1 Recapitulate, All of $3 is equally culprit. Pollution is prevailing with $0 pace $2 its heigh time",
+    "options": [
+    {
+        "id": 12,
+        "label": "alarming"
+    },
+    {
+        "id": 0,
+        "label": "To"
+    },
+    {
+        "id": 14,
+        "label": "and"
+    },
+    {
+        "id": 4,
+        "label": "three"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 4
+    }]
+},
+{
+    "id": 78,
+    "question": "$3 Intelligence: Based upon $1 information collected by sensors AI $0 how to perform $2 suitable action.",
+    "options": [
+    {
+        "id": 10,
+        "label": "decide"
+    },
+    {
+        "id": 4,
+        "label": "the"
+    },
+    {
+        "id": 14,
+        "label": "best"
+    },
+    {
+        "id": 0,
+        "label": "Artificial"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 10
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 0
+    }]
+},
+{
+    "id": 79,
+    "question": "$2 literature delineates $3 vehicle and what are the $0 levels of automation. There $1 five automation level",
+    "options": [
+    {
+        "id": 9,
+        "label": "various"
+    },
+    {
+        "id": 14,
+        "label": "are"
+    },
+    {
+        "id": 0,
+        "label": "This"
+    },
+    {
+        "id": 3,
+        "label": "Autonomous"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 3
+    }]
+},
+{
+    "id": 80,
+    "question": "Level 0: $3 $1 level there is  No-Automation $0 all present in $2",
+    "options": [
+    {
+        "id": 9,
+        "label": "at"
+    },
+    {
+        "id": 3,
+        "label": "this"
+    },
+    {
+        "id": 13,
+        "label": "vehicle."
+    },
+    {
+        "id": 2,
+        "label": "At"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 2
+    }]
+},
+{
+    "id": 81,
+    "question": "Level 1: At this $1 few independent $3 are automated and this level $2 called as Function-specific $0",
+    "options": [
+    {
+        "id": 17,
+        "label": "automation."
+    },
+    {
+        "id": 4,
+        "label": "level"
+    },
+    {
+        "id": 13,
+        "label": "also"
+    },
+    {
+        "id": 7,
+        "label": "function"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 17
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 4
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 7
+    }]
+},
+{
+    "id": 82,
+    "question": "Level 2: At this level two or more function $1 interconnected and automated $2 $0 is known $3",
+    "options": [
+    {
+        "id": 14,
+        "label": "it"
+    },
+    {
+        "id": 9,
+        "label": "are"
+    },
+    {
+        "id": 13,
+        "label": "thus"
+    },
+    {
+        "id": 17,
+        "label": "as"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 9
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 13
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 17
+    }]
+},
+{
+    "id": 83,
+    "question": "Level 3 : At $3 $2 Limited $1 is automated. Level 4: $0 is final level which is",
+    "options": [
+    {
+        "id": 12,
+        "label": "This"
+    },
+    {
+        "id": 7,
+        "label": "self-driving"
+    },
+    {
+        "id": 5,
+        "label": "level"
+    },
+    {
+        "id": 4,
+        "label": "this"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 5
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 4
+    }]
+},
+{
+    "id": 84,
+    "question": "$0 this $2 $3 benefits and challenges discussed about autonomous vehicle $1 of automation are:",
+    "options": [
+    {
+        "id": 0,
+        "label": "In"
+    },
+    {
+        "id": 11,
+        "label": "Benefits"
+    },
+    {
+        "id": 2,
+        "label": "literature"
+    },
+    {
+        "id": 3,
+        "label": "few"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 2
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 3
+    }]
+},
+{
+    "id": 85,
+    "question": "$2 car: $3 $1 be no need to learn driving $0 just have to give some commands and",
+    "options": [
+    {
+        "id": 10,
+        "label": "user"
+    },
+    {
+        "id": 3,
+        "label": "would"
+    },
+    {
+        "id": 0,
+        "label": "Driverless"
+    },
+    {
+        "id": 2,
+        "label": "There"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 10
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 2
+    }]
+},
+{
+    "id": 86,
+    "question": "$1 Safety: In $0 vehicle safety is $3 requirement and with help of new technology $2 are safer",
+    "options": [
+    {
+        "id": 3,
+        "label": "new"
+    },
+    {
+        "id": 0,
+        "label": "Enhance"
+    },
+    {
+        "id": 15,
+        "label": "vehicle"
+    },
+    {
+        "id": 7,
+        "label": "primary"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 15
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 7
+    }]
+},
+{
+    "id": 87,
+    "question": "$2 congestion : $0 $3 predict congestion $1 routs Physically challenged people can also travel easily.",
+    "options": [
+    {
+        "id": 3,
+        "label": "Vehicle"
+    },
+    {
+        "id": 7,
+        "label": "free"
+    },
+    {
+        "id": 0,
+        "label": "less"
+    },
+    {
+        "id": 4,
+        "label": "can"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 7
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 4
+    }]
+},
+{
+    "id": 88,
+    "question": "Cost $2 New vehicle are more $0 $3 $1 compare to existing vehicle.",
+    "options": [
+    {
+        "id": 6,
+        "label": "cost"
+    },
+    {
+        "id": 8,
+        "label": "as"
+    },
+    {
+        "id": 1,
+        "label": "effective:"
+    },
+    {
+        "id": 7,
+        "label": "effective"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 6
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 8
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 7
+    }]
+},
+{
+    "id": 89,
+    "question": "$2 to change $1 road polices: There $3 need to upgrade Existing road polices $0 make them suit",
+    "options": [
+    {
+        "id": 14,
+        "label": "to"
+    },
+    {
+        "id": 3,
+        "label": "Existing"
+    },
+    {
+        "id": 0,
+        "label": "Need"
+    },
+    {
+        "id": 7,
+        "label": "is"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 14
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 3
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 0
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 7
+    }]
+},
+{
+    "id": 90,
+    "question": "Pedestrian $0 Pedestrian supremacy rule may $3 traffic $1 in crowded $2",
+    "options": [
+    {
+        "id": 1,
+        "label": "supremacy:"
+    },
+    {
+        "id": 8,
+        "label": "jams"
+    },
+    {
+        "id": 11,
+        "label": "areas"
+    },
+    {
+        "id": 6,
+        "label": "cause"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 1
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 8
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 6
+    }]
+},
+{
+    "id": 91,
+    "question": "Human Drivers: As new vehicle would $2 bound to speed $1 $3 $0 Drivers would be fast and",
+    "options": [
+    {
+        "id": 12,
+        "label": "Human"
+    },
+    {
+        "id": 10,
+        "label": "limit"
+    },
+    {
+        "id": 6,
+        "label": "be"
+    },
+    {
+        "id": 11,
+        "label": ","
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 10
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 6
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 11
+    }]
+},
+{
+    "id": 92,
+    "question": "Introduction: In $3 world road accidents $2 major problem that causes $1 $0 people died every year.",
+    "options": [
+    {
+        "id": 12,
+        "label": "of"
+    },
+    {
+        "id": 11,
+        "label": "millions"
+    },
+    {
+        "id": 6,
+        "label": "are"
+    },
+    {
+        "id": 2,
+        "label": "contemporary"
+    }],
+    "answers": [
+    {
+        "placeholderId": "0",
+        "optionId": 12
+    },
+    {
+        "placeholderId": "1",
+        "optionId": 11
+    },
+    {
+        "placeholderId": "2",
+        "optionId": 6
+    },
+    {
+        "placeholderId": "3",
+        "optionId": 2
+    }]
+}]

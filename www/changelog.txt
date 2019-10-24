@@ -1,0 +1,20 @@
+1) Successfully set up development environment. which include setting up Sublime IDE, cordova, phonegap, 
+2) Create app directory structure.
+3) Successfully run basic application on phone and laptop browser.
+4) Created POC for drag and drop function on mobile browser using HTML5 Touch events.
+5) Create global question array in separate file(question.js) 
+6) Read global question array, in separate file(generateQusUi.js), to create dynamic div(question) content in index.html.
+7) Also read Option array to generate dynamic option div.
+8) Implemented touchStart, touchMove and touchEnd event in processor.js file.
+9) Implemented logic to calculate drop of option into AnswerPlace holder div.
+10) created JSON file to store data.
+11) Advanced level of ui is created using CSS
+12) all three screen Home, Question and level summary is designed.
+13) JSON file is loaded on button click and stored in array to render questions
+14) Answer check logic is developed to show which answer is correct and which is wrong.
+15) Android Apk is build and test on android phone
+16) application is tested on Mobile browser.
+
+
+
+

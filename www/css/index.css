@@ -1,0 +1,459 @@
+/* Portrait layout (default) */
+/* Landscape layout (with min-width) */
+@media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
+    
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: normal;
+    margin: 0px;
+    overflow: visible;
+    padding: 0px;
+    text-align: center;
+}
+
+.event {
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    color: #FFFFFF;
+    font-size: 12px;
+    margin: 0px 30px;
+    padding: 2px 0px;
+}
+
+.event.listening {
+    background-color: #333333;
+    display: block;
+}
+
+.event.received {
+    background-color: #4B946A;
+    display: none;
+}
+
+
+.blink {
+    animation: fade 3000ms infinite;
+    -webkit-animation: fade 3000ms infinite;
+}
+
+#draggable {
+    width: 50px;
+    height: 30px;
+    background-color: #f00;
+    position: absolute
+}
+
+#qus {
+    width: 80px;
+    height: 40px;
+    background-color: yellow;
+    position: absolute;
+    margin-left: 100px
+}
+
+#first {
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    border: 1px solid #ccc !important;
+    margin-left: 100px;
+    margin-top: 200px;
+}
+
+#kd {
+    position: absolute;
+    background-color: #f00
+}
+
+#questionSection {
+    text-transform: uppercase;
+    width: 100%;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    text-align: center;
+    text-shadow: 1px 1px 2px pink;
+    line-height: 2.5;
+    font-size: 17px;
+    height: 40vh;
+}
+
+
+.ansplcHolderSpan {
+    display: inline;
+}
+
+.ansplcHolder {
+    display: inline-block;
+    width: 145px;
+    padding: 17px;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    background-color: gray;
+    font-size: 20px;
+}
+
+#optionSection {
+    //background-color: green;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    height: 13vh;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+
+
+.option {
+    text-align: center;
+    padding: 4px;
+    margin: 5px;
+    background-color: #123C69;
+    color: white;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 1px solid red;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    font-family: 'Sacramento', cursive !important;
+}
+
+.floating {
+    position: absolute;
+    //background-color: rgba(204, 204, 204, 0.1);
+    font-size: 15px;
+    border: 0px;
+}
+
+.candrop {
+    background-color: green;
+}
+
+@import url('https://fonts.googleapis.com/css? family=Sacramento');
+
+body {
+    background-color: #1A2421;
+    font-size: 12px;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    text-transform: uppercase;
+    width: 100%; 
+}
+
+
+.btn-level {
+ 
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    font-family: 'Sacramento', cursive !important;
+    width: 91%;
+    margin-left: 4%;
+    margin-right: 198%;
+}
+
+.btn-play {
+    color: #fff; 
+    border-color: #fd7e14;
+
+    background-color: rgb(255, 101, 80);
+
+    padding-right: 59px !important;
+    padding-left: 59px !important;
+
+    width: 100%;
+}
+
+
+.btn {
+    font-family: 'Sacramento', cursive !important;
+    margin-top: 10px;
+    display: block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+
+    font-size: 2rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition:all 0.27s;
+}
+
+
+.selectedLevel {
+    opacity: 0.5 !important;
+    color: black;
+    font-style: bold;
+}
+
+#headerDiv {
+    width: 100%; 
+    height: 5vh;
+    background-position: 100%;
+    font-family: 'Sacramento', cursive !important;
+    
+}
+
+
+#levelDiv {
+    font-family: 'Sacramento', cursive !important;
+    font-size: 1rem;
+    text-align: center;
+    margin-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10%;
+}
+
+#bodyDiv {
+    position: absolute;
+    width: 100%;
+    margin-left: 3px;
+    margin-right: 4px; //bottom: 40px;
+    margin-bottom: 10px:
+}
+
+#labelDiv {
+    margin-top: 1%;
+    text-align: center;
+    font-family: 'Sacramento', cursive !important;
+    font-size: 1rem !important; //color: #f5f5f5;
+}
+
+#mainDiv {
+    background:  #EAE7DC;
+    font-family: 'Sacramento', cursive !important;
+}
+
+#mainDiv img {
+    //opacity: 1;
+}
+
+.dropped{
+    background-color: blue;
+    width: 129px;
+    margin-left: 13px;    
+}
+.caneat{
+background-color: black;
+
+}
+
+.correctAns{
+
+background-color: green;
+
+}
+.wrongAns{
+
+background-color: red;
+
+}
+
+.disabled{
+    opacity: 0.2;
+}
+.qusHeader{
+    background: #6A8A82;
+
+}
+
+.level{
+    //background: red;
+}
+.questionIndex{
+     display: inline-block;
+    text-align: right;
+    width: 50%;
+    font-size: 16px;
+     font-weight: 700;
+     margin-top: 5px;
+    padding-right: 2px;
+
+}
+.levelIndex{
+    margin-top: 5px;
+    padding-left: 5px;
+    display: inline-block;
+    text-align: left;
+    width: 47%;
+     font-size: 16px;
+         font-weight: 700;
+}
+
+#buttonDiv{
+        height: 15vh;
+}
+
+.clicked{
+    transform: scale(2);
+    //transform:rotateX(360deg);
+    //transform:skew(180deg,180deg);
+    background: red;
+    border-color: #ffc600;
+    border-shadow:0 0 20px #ffc600;
+}
+
+.playClicked{
+    transform: scale(1.5);
+    //transform:rotateX(360deg);
+    //transform:skew(180deg,180deg);
+    background: red;
+    border-color: #ffc600;
+    border-shadow:0 0 20px #ffc600;
+}
+
+
+#headerDiv1{
+    height: 35vh;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 46px;
+}
+#levelDiv1{
+height: 40vh;
+}
+
+#RheaderDiv{
+    background: #6A8A82;
+}
+
+#RheaderDiv{
+       
+    text-align: center;
+    
+    margin-top: 0%;
+    margin-bottom: 1%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 21px;
+}
+
+#congMsg{
+    text-align: center;
+    font-size: 21px;
+    padding-top: 4%;
+    padding-bottom: 6%;
+    animation-name: wonMsg;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+
+#resultHeaderDiv{
+    //height: 20vh;
+
+}
+#resultBody{
+    padding-top: 6%;
+    padding-bottom: 12%;
+}
+
+    
+.btn-result{
+    font-family: 'Sacramento', cursive !important;
+    margin: 1%;
+    display: inline-block;
+    font-weight: 200;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 0px;
+        font-size: 30px;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: all 0.2s;
+        color: #fff;
+    background-color: #007bff;
+    border-color: #007bff
+}
+
+.playAgainButton{
+   
+    width: 49%;
+   
+    display: inline-block; 
+}
+.nextLevelButton{
+   
+    width: 49%;
+   
+    display: inline-block;
+
+}
+.resultBodyline{
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 100%;
+
+ text-transform: uppercase;
+    
+    //text-align: center;
+    text-shadow: 1px 1px 2px pink;
+    //line-height: 3.428571;
+    font-size: 15px;
+    
+}
+
+.resultlabel{
+ display: inline-block;   
+ width: 82%;
+}
+.resultValue{
+ display: inline-block; 
+ width: 12%;
+    
+ 
+}
+
+.resultBodyHeader{
+    text-align: center;
+    font-size: 33px;
+    padding: 4%;
+}
+
+#nextLevel{
+    float: right;
+    padding: 4px;
+
+}
+#playAgain{
+    float: left;
+    padding: 4px;
+}
+
+
+
+@keyframes wonMsg{
+    0%{
+    font-size: 17px;
+    }
+    50%{
+    font-size: 30px;    
+    }
+    100%{
+    font-size: 17px;
+    }
+}
